@@ -1,0 +1,14 @@
+name = People Panels
+description = Creates a display of workshops, consultations, and trainings associated with a D-Lab person
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = people_panels
+dependencies[] = ctools
+dependencies[] = panels_mini
+dependencies[] = views
+features[ctools][] = panels_mini:panels_default:1
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[panels_mini][] = instructor_info
+features[views_view][] = instructor_trainings
