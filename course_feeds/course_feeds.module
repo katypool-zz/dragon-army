@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Course Feeds feature.
+ */
+
+include_once 'course_feeds.features.inc';
