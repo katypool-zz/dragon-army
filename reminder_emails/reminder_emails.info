@@ -5,6 +5,7 @@ package = Features
 version = 7.x-1.0
 project = reminder_emails
 dependencies[] = ctools
+dependencies[] = dlab_basic_architecture
 dependencies[] = entity
 dependencies[] = flag
 dependencies[] = rules
