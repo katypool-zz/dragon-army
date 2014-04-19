@@ -21,6 +21,7 @@ Below is a brief description of my contributions to the above projects:
      1. A consultation request form for each individual consultant, which would automatically e-mail them with new requests  
      2. A general consultation request form for users who did not know which individual consultant to contact  
      3. A way to assign these general consultation requests to specific consultants  
+
 I worked with Rochelle to create a new webform template for consultation requests and then, using the Webform share module, added the web form default components to the content type 'consultation.' A web form was automatically created every time a new consultation was added, pulling fields from the content type 'consultation.' We already had a content type 'support ticket' which allowed site users to create a node for their general consultation requests. We added the flag 'status' that allowed the support ticket to be flagged 'assigned' and 'unassigned' by our content managers. Matt Cheney wrote us a module called 'DLAB webform assign' which automatically converted general consultation 'support tickets' into webform submissions for a specific consultant when assigned to them.  
 
 ======
