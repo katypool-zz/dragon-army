@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Dlab basic architecture feature.
+ */
+
+include_once 'dlab_basic_architecture.features.inc';
