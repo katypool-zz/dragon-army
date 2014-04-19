@@ -5,6 +5,7 @@ package = Features
 version = 7.x-1.0
 project = people_panels
 dependencies[] = ctools
+dependencies[] = dlab_basic_architecture
 dependencies[] = panels_mini
 dependencies[] = views
 features[ctools][] = panels_mini:panels_default:1
