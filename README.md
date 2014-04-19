@@ -30,7 +30,7 @@ I worked with Rochelle to create a new webform template for consultation request
 
 =====
 
-+ People Panels: One of the first projects I took the lead on. I created the panel panes displays from scratch using contextual filters and then implemented the mini-panels module to create a block for every D-Lab person page. I also applied CSS tweaks.  
++ People Panels: One of the first projects I took the lead on. I created the panel panes displays from scratch using contextual filters and then created a mini-panel called 'Instructor Activity' which would display as a block under each D-Lab instructor's node. I also applied CSS tweaks.  
 
 ====
 
